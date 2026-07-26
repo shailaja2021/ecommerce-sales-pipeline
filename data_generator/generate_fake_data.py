@@ -185,6 +185,13 @@ def main():
     for date_key, orders in daily_orders.items():
         write_json(orders, os.path.join(OUTPUT_DIR, "orders", date_key, "orders.json"))
 
+    # Also write one combined file with every order across all days -
+    # convenient for uploading a single file into Databricks (instead of
+    # one file per day). Each order still carries its own order_date field,
+    # so the daily partitioning information isn't lost.
+    all_orders = [order for orders in daily_orders.values() for order in orders]
+    write_json(all_orders, os.path.join(OUTPUT_DIR, "orders", "all_orders.json"))
+
     total_orders = sum(len(v) for v in daily_orders.values())
     print(f"\nDone. Generated {len(customers)} customers, {len(products)} products, "
           f"{total_orders} orders across {args.days} day(s).")

@@ -1,0 +1,201 @@
+customer_id,name,email,region,signup_date
+1,Allison Hill,donaldgarcia@example.net,East,19/11/2025
+2,Javier Johnson,jesseguzman@example.net,East,2024-05-30
+3,Meredith Barnes,zlawrence@example.org,  EAST  ,30/03/2024
+4,Gina Moore,curtis61@example.com,East,2025/01/10 12:46
+5,Renee Blair,dudleynicholas@example.net,North,2024-10-23
+6,Lisa Hensley,janetwilliams@example.org,West,10-17-2024
+7,Dr. Sharon James,xreid@example.org,West,02-20-2025
+8,Michael Miles,lynchgeorge@example.net,  SOUTH  ,08-09-2024
+9,James Mayo,gabriellecameron@example.org,East,2024-07-16
+10,Renee Morales,clarksherri@example.net,  SOUTH  ,11-26-2024
+11,Jonathan Wilkerson,ithomas@example.org,North,2025-12-14
+12,Nicole Patterson,icox@example.net,West,2025-08-30
+13,Anthony Rodriguez,laurahenderson@example.org,East,2025/03/14 22:20
+14,Zachary Rice,frazierdanny@example.net,north,09-12-2024
+15,Gina Carter,shawnmckay@example.net,North,2024-09-07
+16,Pamela Romero,harrellkenneth@example.net,West,21/09/2025
+17,Brittany Farmer,georgetracy@example.org,South,09/02/2025
+18,Sandra Parker,allenashley@example.org,East,2023-12-06
+19,Rose Spence,davidalvarez@example.net,South,07/04/2024
+20,Shane Henderson,sarahcampos@example.net,North,2024/06/02 16:37
+21,Jennifer Powers,samuel87@example.org,south,14/08/2024
+22,George Chapman,briannasmith@example.net,North,2026/04/01 14:23
+23,Austin Johnson,chad34@example.net,South,18/08/2025
+24,Carlos Walls,esanchez@example.com,East,2024-05-17
+25,Matthew Gomez,uowens@example.org,West,2026/06/06 06:01
+26,Maria Brown,lauren13@example.org,South,2024/05/16 16:40
+27,Brenda White,ewright@example.com,East,2025-11-27
+28,Matthew Fernandez,novaksara@example.org,North,04-09-2024
+29,John Hancock,martinaaron@example.com,south,2024-09-10
+30,Rachel Mitchell,smoore@example.org,North,25/10/2023
+31,Kimberly Adkins,williamsthomas@example.net,East,03-26-2024
+32,Jordan York,larsonemma@example.org,west,13/04/2025
+33,Steve Sanchez,harveyrobert@example.net,East,2025/12/20 06:21
+34,Taylor Harris,,North,11-25-2024
+35,James Powers,stephen10@example.com,West,2026-03-17
+36,Dr. Angel Lewis MD,nicole35@example.com,South,27/03/2024
+37,Joshua Turner,contrerasangela@example.net,South,03/01/2024
+38,Brandy Wilson,newtoneric@example.com,South,19/02/2026
+39,Grant Watts,william40@example.org,South,04-06-2026
+40,Donald Smith,danagreen@example.net,south,11/06/2025
+41,Jessica Smith,landryhannah@example.org,East,19/11/2025
+42,Jacob Tran,tanderson@example.com,  EAST  ,2023-09-26
+43,Christine Wright,gomezanita@example.com,East,2026-03-16
+44,Tammy Young,theresacochran@example.com,North,02/09/2023
+45,Tim Patton,vpham@example.org,South,2024/09/12 16:24
+46,Michael Reyes,garrisonjeffrey@example.com,  WEST  ,2025/01/19 09:22
+47,Robert Perez,kellerraymond@example.com,South,2023-11-11
+48,Diana May,ifrazier@example.com,  EAST  ,09-07-2023
+49,Wesley White,benjamin96@example.com,East,24/11/2024
+50,William Wilson,jonathanfletcher@example.org,West,10-10-2025
+51,Kimberly Ball,michaeljones@example.net,East,2024-12-20
+52,Mary Martinez,william65@example.com,East,27/10/2024
+53,Cheryl Ortega,lbyrd@example.net,South,2025/12/26 06:57
+54,Joshua Smith,jason99@example.net,West,2024/12/07 19:29
+55,Jeremy Lewis,yleon@example.net,South,2024/04/14 19:43
+56,Diane Beck,clarence34@example.org,North,2024-05-30
+57,Angel Riggs,gibsonolivia@example.net,East,2024-05-23
+58,Janet Ross,dianasmith@example.org,South,16/05/2025
+59,Robert Dominguez,pwilliams@example.org,East,2025-07-04
+60,John Schmidt,stephanie79@example.net,West,17/09/2025
+61,Terry Griffin,juliawells@example.com,East,2024/08/13 06:56
+62,Destiny Strickland,rsims@example.com,North,23/11/2023
+63,Cynthia Rogers,taylorjesse@example.net,North,2024/03/19 14:09
+64,Amy Russell,nperry@example.com,North,2025-03-22
+65,Lauren Dominguez,,  EAST  ,05/01/2026
+66,Aaron Bell,acastaneda@example.net,West,2025-11-20
+67,Stephanie Freeman,ryan06@example.com,North,2026/05/30 06:35
+68,Jennifer Martin,ncalhoun@example.net,North,2023-09-06
+69,Leslie Alvarado,dayderek@example.com,North,2024-05-03
+70,James Lewis,matthew64@example.com,West,2024-08-21
+71,Julie Curry,cookemichael@example.net,West,09/11/2023
+72,Marissa Webster,jamessmith@example.org,West,07-30-2024
+73,Michael Elliott,stevenscott@example.com,North,2024-04-11
+74,Tracey Higgins,tamirodriguez@example.org,South,2024-11-21
+75,Susan Brooks,,West,05-29-2024
+76,Michael Burton,terrykevin@example.net,South,2026/02/12 22:08
+77,Rebecca Knight,reedross@example.com,  EAST  ,10/11/2023
+78,Gloria Atkinson,xgarcia@example.net,North,09/07/2025
+79,Jessica Gross,christina87@example.com,East,2025-06-01
+80,Leslie Morris,mariahmiller@example.com,West,2024-08-08
+81,Laura Barnett,anthony52@example.com,South,19/06/2024
+82,David Ramirez,angela83@example.org,West,04/08/2024
+83,Katherine Chang,fbrewer@example.com,east,08-22-2023
+84,Daniel Holt,elizabeth57@example.net,South,27/10/2025
+85,Zachary Pierce,jacqueline44@example.com,East,2024-07-18
+86,Corey Wilson,jamesrodgers@example.com,west,2026/01/27 02:33
+87,Kelly Campbell,wallkenneth@example.com,West,29/04/2024
+88,Michael Martinez,mccannangela@example.net,North,02-07-2024
+89,Nicole Garcia,andrewstaylor@example.com,South,01-05-2025
+90,Anthony Everett,ewilson@example.com,East,08-28-2025
+91,Mark Brown,lisaavery@example.org,  NORTH  ,2024/08/14 18:23
+92,Phillip Obrien,kimberlyjames@example.com,North,2024-10-30
+93,Wanda Torres,lynchjody@example.org,West,2026/03/23 22:03
+94,Matthew Moore,,West,2024-04-21
+95,Brooke Ortiz,ocarter@example.com,North,2024-10-07
+96,Jordan Mcdaniel,kristin93@example.com,North,2024/01/20 12:20
+97,Maria Kerr,charlesmartin@example.com,North,04/02/2026
+98,Laura Roberts,harrisonkevin@example.com,South,21/09/2024
+99,Katherine Miller,prestonjessica@example.net,North,2024-08-18
+100,Darryl Craig,keyemily@example.com,West,01-06-2026
+101,Peter Ruiz,lmoon@example.net,South,2025/06/02 08:08
+102,Katherine Davis,ricky51@example.org,West,12-19-2024
+103,Jon Bates,jcervantes@example.org,  NORTH  ,01/07/2025
+104,David Wilson,ahancock@example.net,West,15/11/2025
+105,Anthony Stone,,West,2026-03-19
+106,Lori Wolf,josephanderson@example.com,West,2025/06/05 19:19
+107,Kari Johnson,jennifercollins@example.org,west,2025-11-30
+108,Danny Skinner,murraydavid@example.org,East,07/09/2025
+109,Dorothy Thornton,edavenport@example.org,  SOUTH  ,04/07/2025
+110,Janet Weeks,michellehill@example.com,East,2025/01/04 04:38
+111,Katie Hoover,jessica99@example.net,North,2025/08/24 20:17
+112,Jill Washington,andrea86@example.com,South,2024/12/07 01:53
+113,Veronica Allen,xhall@example.com,South,02/10/2023
+114,John Mcintyre,qhughes@example.net,North,2024/03/18 12:03
+115,Andrew Shaw MD,sawyerscott@example.net,North,07-05-2025
+116,Charles Pitts,charlesharrington@example.com,North,2025-01-02
+117,Jennifer Miller,melissa86@example.com,West,25/03/2026
+118,Olivia Brennan,williamsonjimmy@example.net,East,10-14-2024
+119,Nicole Hamilton MD,wallaceheather@example.org,  SOUTH  ,2023/10/05 15:50
+120,Anthony Howard,hthomas@example.com,East,2025/12/21 08:29
+121,Catherine Thompson,pharvey@example.com,North,2026/01/17 02:50
+122,Joel King,elizabeth74@example.net,South,21/11/2025
+123,Jeremy Reed,danielle64@example.com,North,2024-11-06
+124,James Webb,patrickhoward@example.com,South,2024/10/26 20:10
+125,Ronald Foster,knightgina@example.net,East,2023-10-10
+126,Natasha Wall,kimberly39@example.com,south,2024/06/30 10:14
+127,Lisa Byrd,courtneyberger@example.net,North,25/09/2023
+128,Jeremiah Riley,christopherphillips@example.net,North,2025/05/01 16:14
+129,Carlos Ryan,alyssa42@example.com,South,2025-08-12
+130,Elizabeth Harrell,mcdonaldcharles@example.org,East,06-10-2026
+131,Veronica Coffey,christopher60@example.com,East,2025-11-05
+132,Jacob Curry,brenda51@example.net,west,2024-07-23
+133,Manuel Hahn,rose31@example.net,west,2025-07-16
+134,Elizabeth Ortiz,brandonjohnson@example.com,West,01-22-2024
+135,Stephen Taylor,vwatson@example.net,West,2025-11-11
+136,Patrick Moore,fpena@example.net,West,2025-04-20
+137,Diana Vaughn,scottsampson@example.com,North,2023/12/27 13:22
+138,Mrs. Stephanie Newman,sandersjames@example.org,  WEST  ,01/07/2025
+139,Daniel Fowler,williamsmatthew@example.org,North,2025-12-19
+140,Ronald Spencer,lisahall@example.org,East,2026/02/06 00:58
+141,Scott Thomas,amberlindsey@example.org,East,05-18-2026
+142,Bonnie Howard,,South,2024-07-29
+143,Alexis Baker,judyfox@example.net,North,2023/11/01 22:47
+144,Richard Palmer,hayesjeffrey@example.net,south,10-01-2023
+145,Susan Hopkins,stephen00@example.com,South,04-10-2025
+146,Brian Joseph,fjones@example.com,West,2026-02-25
+147,Cameron Weber,oscar98@example.com,South,2025/06/30 00:54
+148,Jessica Mcguire,farrelldebra@example.net,South,2024/06/24 05:48
+149,Stephen Gutierrez,uross@example.org,West,11-22-2024
+150,Maurice Brooks,gloriawells@example.org,North,12-05-2023
+151,Brent Rodgers,angelawillis@example.net,  WEST  ,2025/12/14 18:14
+152,Bryan Gomez,uparrish@example.org,West,2024/10/15 00:46
+153,Heather Lane,ericolson@example.org,  EAST  ,20/01/2025
+154,Holly Farmer,lindsaybruce@example.net,West,03-05-2026
+155,Kristin Lynch,anthony44@example.com,North,01-21-2025
+156,Sergio Knight,vjones@example.net,South,09-11-2023
+157,Joseph Bennett,xpeterson@example.com,West,11/12/2024
+158,Latoya Miller,moorekaren@example.org,South,06-07-2026
+159,Jeremy Coleman,nperry@example.net,West,01-19-2024
+160,Brian Gregory,trose@example.org,East,02/07/2024
+161,Kyle Smith,sierra24@example.com,East,16/12/2024
+162,Jonathan Jordan,omarpadilla@example.net,south,2025-12-10
+163,Renee Jones,grahamsteve@example.org,South,11-23-2024
+164,Laura Mckinney,zroberts@example.org,East,2024/12/11 17:24
+165,Travis Stevens,christopher13@example.com,East,2026-01-25
+166,Blake Harrell,jeffrey21@example.net,east,04-04-2026
+167,Jordan Bullock,michael23@example.org,west,2024/03/09 17:00
+168,Christopher Hernandez,thompsonkendra@example.com,West,2025/07/15 22:35
+169,Olivia Cole,michelle52@example.com,South,2023/11/09 07:03
+170,Mark Hogan,bellcharles@example.com,East,2025-06-27
+171,Jacob Mitchell,gilbertwilliam@example.com,West,01-12-2026
+172,Rebecca Huang,kstout@example.net,West,2024-05-13
+173,John Hernandez,hayeslisa@example.com,South,2023/12/04 05:11
+174,Carrie Wright,hritter@example.net,West,02-27-2026
+175,Jake Campbell,rschroeder@example.net,  SOUTH  ,15/10/2023
+176,Maria Jones,grantpaul@example.com,West,11/05/2026
+177,Lindsey Hernandez,aguilardonald@example.com,North,2024-11-19
+178,Melissa Myers,collinsnicholas@example.com,North,02-09-2024
+179,Sandra Rodgers,lucasrodney@example.com,South,2023/08/23 12:51
+180,Christopher Lewis,ilee@example.org,South,2023-11-23
+181,Richard Romero,stanleynancy@example.net,North,2024-02-14
+182,Brittany White,jenniferwilliams@example.com,East,06-10-2026
+183,Tracy Bishop,pyoung@example.com,West,2025/07/23 19:20
+184,Cheyenne Gregory,smurray@example.com,West,2025/09/14 10:53
+185,Tracy Montoya,moniquewilliams@example.com,South,2025/02/21 20:57
+186,Ashley Singleton,mitchellkathryn@example.com,North,2025-06-23
+187,Brittany Kim,lisawilkerson@example.org,North,2025/04/30 17:38
+188,Jonathan Young,brooksanthony@example.org,South,2026-04-30
+189,Charles Johnson,ihorton@example.net,North,2025-07-23
+190,Aaron Miller,jason28@example.net,South,2026-02-26
+191,Ashley Roberts,david36@example.net,South,19/03/2026
+192,Brian Stein,chenbailey@example.net,South,2024-03-05
+193,Aaron Gomez,qlopez@example.org,West,2025/10/16 10:05
+194,Andrea Fox,myerstheodore@example.net,south,18/03/2025
+195,Mrs. Alexis Kramer,john19@example.net,North,2024/12/23 18:21
+196,Harold Morgan,mariacohen@example.net,East,2025-08-07
+197,Robin Brown,mjohnson@example.org,West,05-31-2024
+198,Emily Collins,ihays@example.com,North,2024/08/22 17:23
+199,Matthew Mitchell,glennmartin@example.org,West,16/02/2025
+200,James Gonzales,lmorgan@example.com,West,09-06-2025
