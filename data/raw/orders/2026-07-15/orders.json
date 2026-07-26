@@ -1,0 +1,452 @@
+[
+  {
+    "order_id": 1,
+    "customer_id": 84,
+    "product_id": 48,
+    "quantity": 4,
+    "amount": 298.24,
+    "status": "shipped",
+    "order_date": "07-16-2026"
+  },
+  {
+    "order_id": 2,
+    "customer_id": 124,
+    "product_id": 19,
+    "quantity": 3,
+    "amount": 731.65,
+    "status": "pending",
+    "order_date": "15/07/2026"
+  },
+  {
+    "order_id": 3,
+    "customer_id": 143,
+    "product_id": 24,
+    "quantity": 1,
+    "amount": 582.13,
+    "status": "  CANCELLED  ",
+    "order_date": "2026/07/16 14:06"
+  },
+  {
+    "order_id": 4,
+    "customer_id": 164,
+    "product_id": 24,
+    "quantity": 1,
+    "amount": 601.72,
+    "status": "shipped",
+    "order_date": "07-16-2026"
+  },
+  {
+    "order_id": 5,
+    "customer_id": 180,
+    "product_id": 20,
+    "quantity": 4,
+    "amount": 184.88,
+    "status": "pending",
+    "order_date": "2026/07/15 22:18"
+  },
+  {
+    "order_id": 6,
+    "customer_id": 95,
+    "product_id": 43,
+    "quantity": 5,
+    "amount": 195.49,
+    "status": "cancelled",
+    "order_date": "2026/07/16 20:08"
+  },
+  {
+    "order_id": 7,
+    "customer_id": 72,
+    "product_id": 3,
+    "quantity": 3,
+    "amount": 668.62,
+    "status": "shipped",
+    "order_date": "07-16-2026"
+  },
+  {
+    "order_id": 8,
+    "customer_id": 92,
+    "product_id": 4,
+    "quantity": 4,
+    "amount": 551.69,
+    "status": "delivered",
+    "order_date": "2026/07/16 00:53"
+  },
+  {
+    "order_id": 9,
+    "customer_id": 13,
+    "product_id": 22,
+    "quantity": 2,
+    "amount": 177.56,
+    "status": "shipped",
+    "order_date": "16/07/2026"
+  },
+  {
+    "order_id": 10,
+    "customer_id": 153,
+    "product_id": 1,
+    "quantity": 3,
+    "amount": 652.31,
+    "status": "shipped",
+    "order_date": "16/07/2026"
+  },
+  {
+    "order_id": 11,
+    "customer_id": 61,
+    "product_id": 38,
+    "quantity": 3,
+    "amount": 694.49,
+    "status": "pending",
+    "order_date": "2026/07/15 22:07"
+  },
+  {
+    "order_id": 12,
+    "customer_id": 132,
+    "product_id": 38,
+    "quantity": 1,
+    "amount": 599.08,
+    "status": "cancelled",
+    "order_date": "07-16-2026"
+  },
+  {
+    "order_id": 13,
+    "customer_id": 103,
+    "product_id": 28,
+    "quantity": 1,
+    "amount": 771.58,
+    "status": "cancelled",
+    "order_date": "2026-07-16"
+  },
+  {
+    "order_id": 14,
+    "customer_id": 150,
+    "product_id": 36,
+    "quantity": 3,
+    "amount": 127.18,
+    "status": "cancelled",
+    "order_date": "2026/07/16 13:17"
+  },
+  {
+    "order_id": 15,
+    "customer_id": 168,
+    "product_id": 42,
+    "quantity": 5,
+    "amount": 349.86,
+    "status": "shipped",
+    "order_date": "07-16-2026"
+  },
+  {
+    "order_id": 16,
+    "customer_id": 81,
+    "product_id": 43,
+    "quantity": 3,
+    "amount": 325.0,
+    "status": "delivered",
+    "order_date": "2026/07/16 18:58"
+  },
+  {
+    "order_id": 17,
+    "customer_id": 190,
+    "product_id": 24,
+    "quantity": 2,
+    "amount": 667.1,
+    "status": "pending",
+    "order_date": "07-16-2026"
+  },
+  {
+    "order_id": 18,
+    "customer_id": 109,
+    "product_id": 47,
+    "quantity": 1,
+    "amount": 334.54,
+    "status": "delivered",
+    "order_date": "16/07/2026"
+  },
+  {
+    "order_id": 19,
+    "customer_id": 143,
+    "product_id": 24,
+    "quantity": 1,
+    "amount": 390.93,
+    "status": "delivered",
+    "order_date": "2026-07-16"
+  },
+  {
+    "order_id": 20,
+    "customer_id": 70,
+    "product_id": 45,
+    "quantity": 3,
+    "amount": 529.69,
+    "status": "delivered",
+    "order_date": "16/07/2026"
+  },
+  {
+    "order_id": 21,
+    "customer_id": 8,
+    "product_id": 6,
+    "quantity": 5,
+    "amount": 326.62,
+    "status": "shipped",
+    "order_date": "16/07/2026"
+  },
+  {
+    "order_id": 22,
+    "customer_id": 22,
+    "product_id": 4,
+    "quantity": 2,
+    "amount": 580.06,
+    "status": "shipped",
+    "order_date": "2026-07-15"
+  },
+  {
+    "order_id": 23,
+    "customer_id": 70,
+    "product_id": 14,
+    "quantity": 5,
+    "amount": 532.93,
+    "status": "pending",
+    "order_date": "2026/07/16 00:17"
+  },
+  {
+    "order_id": 24,
+    "customer_id": 15,
+    "product_id": 1,
+    "quantity": 2,
+    "amount": 253.65,
+    "status": "delivered",
+    "order_date": "07-16-2026"
+  },
+  {
+    "order_id": 25,
+    "customer_id": 34,
+    "product_id": 25,
+    "quantity": 5,
+    "amount": 104.79,
+    "status": "shipped",
+    "order_date": "07-16-2026"
+  },
+  {
+    "order_id": 26,
+    "customer_id": null,
+    "product_id": 5,
+    "quantity": 3,
+    "amount": 690.79,
+    "status": "cancelled",
+    "order_date": "2026/07/16 19:39"
+  },
+  {
+    "order_id": 27,
+    "customer_id": 159,
+    "product_id": 30,
+    "quantity": 3,
+    "amount": 329.98,
+    "status": "pending",
+    "order_date": "2026/07/16 00:14"
+  },
+  {
+    "order_id": 28,
+    "customer_id": 87,
+    "product_id": 15,
+    "quantity": 3,
+    "amount": 423.93,
+    "status": "  SHIPPED  ",
+    "order_date": "16/07/2026"
+  },
+  {
+    "order_id": 29,
+    "customer_id": 38,
+    "product_id": 16,
+    "quantity": 1,
+    "amount": 286.01,
+    "status": "shipped",
+    "order_date": "16/07/2026"
+  },
+  {
+    "order_id": 30,
+    "customer_id": 127,
+    "product_id": 30,
+    "quantity": 5,
+    "amount": 527.85,
+    "status": "cancelled",
+    "order_date": "07-16-2026"
+  },
+  {
+    "order_id": 31,
+    "customer_id": 114,
+    "product_id": 41,
+    "quantity": 3,
+    "amount": 505.5,
+    "status": "delivered",
+    "order_date": "2026-07-16"
+  },
+  {
+    "order_id": 32,
+    "customer_id": 20,
+    "product_id": 42,
+    "quantity": 1,
+    "amount": 367.01,
+    "status": "cancelled",
+    "order_date": "2026-07-16"
+  },
+  {
+    "order_id": 33,
+    "customer_id": 122,
+    "product_id": 33,
+    "quantity": 2,
+    "amount": 649.75,
+    "status": "pending",
+    "order_date": "2026-07-16"
+  },
+  {
+    "order_id": 34,
+    "customer_id": 113,
+    "product_id": 34,
+    "quantity": 5,
+    "amount": 146.32,
+    "status": "shipped",
+    "order_date": "2026/07/16 06:23"
+  },
+  {
+    "order_id": 35,
+    "customer_id": 86,
+    "product_id": 5,
+    "quantity": 3,
+    "amount": 546.33,
+    "status": "pending",
+    "order_date": "07-16-2026"
+  },
+  {
+    "order_id": 36,
+    "customer_id": 86,
+    "product_id": 6,
+    "quantity": 5,
+    "amount": 528.69,
+    "status": "shipped",
+    "order_date": "2026/07/16 06:40"
+  },
+  {
+    "order_id": 37,
+    "customer_id": 165,
+    "product_id": 22,
+    "quantity": 2,
+    "amount": 569.98,
+    "status": "pending",
+    "order_date": "07-16-2026"
+  },
+  {
+    "order_id": 20,
+    "customer_id": 125,
+    "product_id": 13,
+    "quantity": 2,
+    "amount": 152.41,
+    "status": "shipped",
+    "order_date": "2026-07-16"
+  },
+  {
+    "order_id": 38,
+    "customer_id": 170,
+    "product_id": 22,
+    "quantity": 5,
+    "amount": 436.42,
+    "status": "shipped",
+    "order_date": "16/07/2026"
+  },
+  {
+    "order_id": 39,
+    "customer_id": 113,
+    "product_id": 3,
+    "quantity": 4,
+    "amount": 619.17,
+    "status": "delivered",
+    "order_date": "07-16-2026"
+  },
+  {
+    "order_id": 40,
+    "customer_id": 121,
+    "product_id": 13,
+    "quantity": 3,
+    "amount": 629.2,
+    "status": "cancelled",
+    "order_date": "2026/07/16 06:48"
+  },
+  {
+    "order_id": 41,
+    "customer_id": 155,
+    "product_id": 9,
+    "quantity": 3,
+    "amount": 340.74,
+    "status": "pending",
+    "order_date": "2026-07-16"
+  },
+  {
+    "order_id": 42,
+    "customer_id": 42,
+    "product_id": 18,
+    "quantity": 4,
+    "amount": 417.57,
+    "status": "shipped",
+    "order_date": "15/07/2026"
+  },
+  {
+    "order_id": 43,
+    "customer_id": 102,
+    "product_id": 33,
+    "quantity": 3,
+    "amount": 708.86,
+    "status": "shipped",
+    "order_date": "15/07/2026"
+  },
+  {
+    "order_id": 44,
+    "customer_id": 38,
+    "product_id": 9,
+    "quantity": 1,
+    "amount": 745.35,
+    "status": "delivered",
+    "order_date": "16/07/2026"
+  },
+  {
+    "order_id": 45,
+    "customer_id": 5,
+    "product_id": 17,
+    "quantity": 2,
+    "amount": 380.6,
+    "status": "shipped",
+    "order_date": "2026/07/16 20:37"
+  },
+  {
+    "order_id": 46,
+    "customer_id": 108,
+    "product_id": 41,
+    "quantity": 5,
+    "amount": 237.6,
+    "status": "  CANCELLED  ",
+    "order_date": "2026-07-16"
+  },
+  {
+    "order_id": 47,
+    "customer_id": 1,
+    "product_id": 40,
+    "quantity": 3,
+    "amount": 464.29,
+    "status": "shipped",
+    "order_date": "2026-07-16"
+  },
+  {
+    "order_id": 48,
+    "customer_id": 130,
+    "product_id": 36,
+    "quantity": 1,
+    "amount": 294.88,
+    "status": "cancelled",
+    "order_date": "2026/07/15 22:39"
+  },
+  {
+    "order_id": 49,
+    "customer_id": 188,
+    "product_id": 43,
+    "quantity": 1,
+    "amount": -10.57,
+    "status": "delivered",
+    "order_date": "07-16-2026"
+  }
+]
